@@ -1,0 +1,25 @@
+When do you use an interface vs an abstract class?
+when do you use an arraylist vs a linkedlist?
+what is difference between @controller and @restcontroller?
+
+how do you sort objects in ascending order?
+do you whats stack and heap? Explain
+whats hashcode? 
+Difference between final finally and finalize
+If you have return statement in both try block and finaly block, which one executes?
+does finally execute if you have system.exit in try block?
+whats the difference between soap and rest?
+whats the use of microservice? why do you think everyone is going for it now?
+whats the difference between put and post
+how is authentication handled in rest webservices? which one did you use?
+does spring boot have anything built in to handle authentication?
+How do the JSON get converted to java objects in spring boot? who takes care of that?
+how is marshall unmarshall handled in spring boot?\
+how is an URL mapped to a method in rest services using spring boot?
+Explain what @component is
+explain mvc architecture
+what is the difference between spring boot and spring?
+difference between dependency injection vs dependency inversion?
+what are the different ways to handle dependency injection in spring?
+what kind of compilation error do you see when you use autowiring in spring for dependency injection? 
+(Ans: All errors get pushed to run time.)
